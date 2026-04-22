@@ -114,9 +114,10 @@ Current: English. Kinyarwanda translation of column headers and action text is a
 
 | Artefact | URL |
 |---|---|
-| GitHub repo | _this repo_ |
+| GitHub repo | https://github.com/johnemekaeze/ktt-hackathon-s2t12 |
+| Live demo | https://johnemekaeze-ktt-hackathon-s2t12.streamlit.app/ |
 | 4-minute video | **[TO BE ADDED]** |
-| Model (Hugging Face) | N/A — model is CPU logistic regression, included in repo |
+| Model | https://github.com/johnemekaeze/ktt-hackathon-s2t12/blob/main/risk_scorer.py — CPU logistic regression, retrained on startup |
 
 ---
 
