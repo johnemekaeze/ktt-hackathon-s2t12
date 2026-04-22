@@ -20,6 +20,17 @@ from streamlit_folium import st_folium
 
 from risk_scorer import score_dataframe, train
 
+# ── Auto-bootstrap data if running on a clean cloud instance ─────────────────
+from pathlib import Path
+if not Path("data/households.csv").exists():
+    import generate_data  # runs the generator on import
+if not Path("data/scored_households.csv").exists():
+    import pandas as pd
+    train()
+    hh = pd.read_csv("data/households.csv")
+    scored = score_dataframe(hh)
+    scored.to_csv("data/scored_households.csv", index=False)
+
 # ── Page config ───────────────────────────────────────────────────────────────
 st.set_page_config(
     page_title="Rwanda Stunting Risk Dashboard",
