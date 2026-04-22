@@ -1,0 +1,170 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Nyarugenge"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.02,
+              -1.97
+            ],
+            [
+              30.095,
+              -1.97
+            ],
+            [
+              30.095,
+              -1.92
+            ],
+            [
+              30.02,
+              -1.92
+            ],
+            [
+              30.02,
+              -1.97
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Gasabo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.07,
+              -1.93
+            ],
+            [
+              30.17,
+              -1.93
+            ],
+            [
+              30.17,
+              -1.85
+            ],
+            [
+              30.07,
+              -1.85
+            ],
+            [
+              30.07,
+              -1.93
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Kicukiro"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.06,
+              -2.025
+            ],
+            [
+              30.15,
+              -2.025
+            ],
+            [
+              30.15,
+              -1.945
+            ],
+            [
+              30.06,
+              -1.945
+            ],
+            [
+              30.06,
+              -2.025
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Bugesera"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              30.175,
+              -2.25
+            ],
+            [
+              30.32,
+              -2.25
+            ],
+            [
+              30.32,
+              -2.08
+            ],
+            [
+              30.175,
+              -2.08
+            ],
+            [
+              30.175,
+              -2.25
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "district": "Rulindo"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              29.94,
+              -1.8
+            ],
+            [
+              30.06,
+              -1.8
+            ],
+            [
+              30.06,
+              -1.65
+            ],
+            [
+              29.94,
+              -1.65
+            ],
+            [
+              29.94,
+              -1.8
+            ]
+          ]
+        ]
+      }
+    }
+  ]
+}
