@@ -116,7 +116,7 @@ Current: English. Kinyarwanda translation of column headers and action text is a
 |---|---|
 | GitHub repo | https://github.com/johnemekaeze/ktt-hackathon-s2t12 |
 | Live demo | https://johnemekaeze-ktt-hackathon-s2t12.streamlit.app/ |
-| 4-minute video | **[TO BE ADDED]** |
+| 4-minute video | https://www.loom.com/share/67da6fb021024ea1a357388c104b29f3 |
 | Model | https://github.com/johnemekaeze/ktt-hackathon-s2t12/blob/main/risk_scorer.py — CPU logistic regression, retrained on startup |
 
 ---
